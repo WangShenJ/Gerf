@@ -1,0 +1,5 @@
+data/
+logs/
+configs/
+.DS_Store
+__pycache__/
